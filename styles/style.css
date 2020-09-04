@@ -125,6 +125,10 @@ h1{
         clip-path: polygon(0 0,100% 0,100% 80%,0 100%);
         padding: 0;
     }
+    
+    .container h2{
+        padding: 10px 0;
+    }
 }
 
 /* projects */
@@ -372,7 +376,7 @@ footer a{
 @media only screen and (max-width: 600px) {
     .icon{  
         font-size: 1.3em;
-        padding: 10px 1.5em
+        padding: 30px 1.5em
     }
     
 }
